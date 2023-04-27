@@ -12,7 +12,7 @@
 	<artifactId>Timepass</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Timepass</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for Spring </description>
 	<packaging>war</packaging>
 	<properties>
 		<java.version>11</java.version>
